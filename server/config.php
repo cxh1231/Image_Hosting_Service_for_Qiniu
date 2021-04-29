@@ -1,5 +1,7 @@
 <?php
+
 /* 七牛云配置文件 */
+
 // 七牛云accesskey
 define('AK', 'ACCESS KEY');
 // 七牛云secretkey
