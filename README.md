@@ -51,6 +51,10 @@ action主要有：
 参　考：https://developer.qiniu.com/kodo/1671/region-endpoint-fq
 ```
 
+③ 运行环境：
+
+任意PHP版本均可。任意浏览器均可。
+
 ### 3. LICENSE
 
 + 本项目原作者：[mqllin](https://github.com/mqllin/QiNiuYun_UploadImage_tuchuang
